@@ -4,7 +4,8 @@ Grab pictures from chans using NodeJS.
 
 ## Requirements
 
-You need to install query for NodeJS :
+You need to install jquery for NodeJS :
+
 > npm install jquery
 
 ## Usage
